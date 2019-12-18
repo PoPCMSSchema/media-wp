@@ -1,0 +1,4 @@
+services:
+    media_type_api:
+        class: \PoP\MediaWP\TypeAPIs\MediaTypeAPI
+        public: true
