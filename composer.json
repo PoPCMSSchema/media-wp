@@ -20,6 +20,7 @@
     "require": {
         "php" : "~7.1",
         "getpop/media": "dev-master",
+        "getpop/engine-wp": "dev-master",
         "getpop/migrate-media-wp": "dev-master"
     },
     "require-dev": {

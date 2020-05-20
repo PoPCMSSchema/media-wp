@@ -19,6 +19,7 @@ class Component extends AbstractComponent
     {
         return [
             \PoP\Media\Component::class,
+            \PoP\EngineWP\Component::class,
         ];
     }
 
