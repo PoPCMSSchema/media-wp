@@ -1,2 +1,2 @@
 <?php
-\PoP\MediaWP\Component::init();
+//\PoP\MediaWP\Component::initialize();
