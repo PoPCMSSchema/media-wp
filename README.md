@@ -20,12 +20,13 @@ Via Composer
 composer require getpop/media-wp
 ```
 
-<!--
 ## Usage
 
+Initialize the component:
+
 ``` php
+\PoP\MediaWP\Component::initialize();
 ```
--->
 
 ## Standards
 
