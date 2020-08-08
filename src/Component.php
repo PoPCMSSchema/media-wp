@@ -26,7 +26,7 @@ class Component extends AbstractComponent
     public static function getDependedMigrationPlugins(): array
     {
         return [
-            'migrate-media-wp',
+            'pop-schema/migrate-media-wp',
         ];
     }
 
