@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/getpop/media-wp).
+We accept contributions via Pull Requests on [Github](https://github.com/pop-schema/media-wp).
 
 
 ## Pull Requests

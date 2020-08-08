@@ -17,7 +17,7 @@ Implementation for WordPress of contracts from package "Media"
 Via Composer
 
 ``` bash
-composer require getpop/media-wp
+composer require pop-schema/media-wp
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ Initialize the component:
 
 ``` php
 \PoP\Root\ComponentLoader::initializeComponents([
-    \PoP\MediaWP\Component::class,
+    \PoPSchema\MediaWP\Component::class,
 ]);
 ```
 
@@ -61,17 +61,17 @@ If you discover any security related issues, please email leo@getpop.org instead
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/getpop/media-wp.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/pop-schema/media-wp.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/getpop/media-wp/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/getpop/media-wp.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/getpop/media-wp.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/getpop/media-wp.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/pop-schema/media-wp/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/pop-schema/media-wp.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/pop-schema/media-wp.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/pop-schema/media-wp.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/getpop/media-wp
-[link-travis]: https://travis-ci.org/getpop/media-wp
-[link-scrutinizer]: https://scrutinizer-ci.com/g/getpop/media-wp/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/getpop/media-wp
-[link-downloads]: https://packagist.org/packages/getpop/media-wp
+[link-packagist]: https://packagist.org/packages/pop-schema/media-wp
+[link-travis]: https://travis-ci.org/pop-schema/media-wp
+[link-scrutinizer]: https://scrutinizer-ci.com/g/pop-schema/media-wp/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/pop-schema/media-wp
+[link-downloads]: https://packagist.org/packages/pop-schema/media-wp
 [link-author]: https://github.com/leoloso
 [link-contributors]: ../../contributors

@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace PoP\MediaWP\TypeAPIs;
+namespace PoPSchema\MediaWP\TypeAPIs;
 
 use WP_Post;
-use PoP\Media\TypeAPIs\MediaTypeAPIInterface;
+use PoPSchema\Media\TypeAPIs\MediaTypeAPIInterface;
 /**
  * Methods to interact with the Type, to be implemented by the underlying CMS
  */

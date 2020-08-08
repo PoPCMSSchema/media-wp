@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PoP\MediaWP;
+namespace PoPSchema\MediaWP;
 
 use PoP\Root\Component\AbstractComponent;
 use PoP\Root\Component\YAMLServicesTrait;
@@ -18,7 +18,7 @@ class Component extends AbstractComponent
     public static function getDependedComponentClasses(): array
     {
         return [
-            \PoP\Media\Component::class,
+            \PoPSchema\Media\Component::class,
             \PoP\EngineWP\Component::class,
         ];
     }
